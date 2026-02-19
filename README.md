@@ -83,4 +83,7 @@ LGPL-3.0 License
 - [Bitwarden](https://bitwarden.com/) - 原始设计和客户端
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - 服务器实现参考
 - [Cloudflare Workers](https://workers.cloudflare.com/) - 无服务器平台
+---
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=shuaiplus/NodeWarden&type=timeline&legend=top-left)](https://www.star-history.com/#shuaiplus/NodeWarden&type=timeline&legend=top-left)
